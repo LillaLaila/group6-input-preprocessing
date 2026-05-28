@@ -41,8 +41,7 @@ Modellerna jämfördes med:
 - träningskurvor
 
 Vi såg att preprocessing har stor påverkan på deep learning-modeller. 
-Samma modell kan ge väldigt olika resultat beroende på hur datan förbereds. 
-Normalisering gav bäst resultat i vårt projekt och gjorde träningen mer stabil. Den minskade även tecken på overfitting. 
+Samma modell kan ge väldigt olika resultat beroende på hur datan förbereds. Av alla testade förändringar (experiment) gav normalisering bäst resultat i vårt projekt och gjorde träningen mer stabil. 
 
 ## Miljö
 - **Python:** 3.13.7
