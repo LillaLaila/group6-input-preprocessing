@@ -6,9 +6,9 @@ Projektet genomfördes inom kursen Deep Learning och använder datasetet Fashion
 
 ## Projektets syfte
 Målet med projektet var att:
-- bygga en baseline-modell
-- testa olika tekniker inom input & preprocessing
-- jämföra modellernas resultat
+- Bygga en baseline-modell
+- Testa olika tekniker inom input & preprocessing
+- Jämföra modellernas resultat
 
 ## Dataset
 Fashion MNIST består av:
